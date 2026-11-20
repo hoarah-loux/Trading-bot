@@ -155,7 +155,7 @@ def liquidity_sweep(candles: list, threshold: float):
 
 
 def trend(candles: list[Candle], threshold: int):
-    return None
+    pass
 
 
 
